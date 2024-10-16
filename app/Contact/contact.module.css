@@ -1,0 +1,47 @@
+.container {
+  padding: 40px;
+  text-align: center;
+  background-color: #000C1A;
+}
+
+.title {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: rgb(255, 255, 255);
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;  
+}
+
+.input, .textarea {
+  padding: 10px;
+  width: 80%;
+  max-width: 400px;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+}
+
+.textarea {
+  height: 100px;
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: #032A4B ;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: #151B24;
+  color: #AEEDFE;
+  text-decoration: solid;
+}

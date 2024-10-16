@@ -1,0 +1,28 @@
+.container {
+  padding: 40px;
+  text-align: center;
+  background-color: #000C1A;
+}
+
+.title {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: rgb(255, 255, 255);;
+}
+
+.description {
+  font-size: 18px;
+  margin-bottom: 30px;
+  line-height: 1.5;
+  color: #E4F2FD
+}
+
+.container p {
+  text-align: justify;
+}
+
+/* .image {
+  width: 400px;
+  height: 200px;
+  border-radius: 8px;
+} */

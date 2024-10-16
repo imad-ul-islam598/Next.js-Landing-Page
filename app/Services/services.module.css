@@ -1,0 +1,31 @@
+
+.container {
+  padding: 40px;
+  text-align: center;
+  background-color: #000C1A;
+}
+
+.title {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: rgb(255, 255, 255)
+}
+
+.servicesList {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 30px;
+}
+
+.serviceItem {
+  font-size: 20px;
+  margin: 10px 0;
+  color: #E4F2FD
+  ;
+}
+
+/* .image {
+  max-width: 80%;
+  height: 300px;
+  border-radius: 8px;
+} */
